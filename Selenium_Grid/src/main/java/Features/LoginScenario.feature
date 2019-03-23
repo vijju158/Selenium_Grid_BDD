@@ -6,3 +6,5 @@ Feature: Search Google
     When I successfully login 
 
     Then I should navigate to the home page
+    
+    Comments
